@@ -1,0 +1,15 @@
+GRAPHIC DESIGNER SITE
+
+index.html       Home
+work.html        All projects
+terra.html       Terra / brand identity case study
+editorial.html   Editorial case study
+social.html      Luma / social campaign case study
+posters.html     Poster series case study
+about.html       About
+journal.html     Journal / article
+contact.html     Contact
+
+assets/          Images and visual references
+
+Open index.html to view the site.
