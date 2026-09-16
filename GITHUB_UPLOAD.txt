@@ -1,0 +1,5 @@
+FINAL GITHUB UPLOAD
+1. Upload/replace the HTML files in the repository root.
+2. Upload the new files inside assets/ into the repository's assets folder.
+3. Keep index.html at the repository root.
+4. GitHub Pages should continue using main / (root).
